@@ -3,6 +3,7 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/quincybryant/ActiveDirectoryHomeLab)
+  - [Splunk SIEM Home Lab](https://github.com/quincybryant/SplunkSIEMLab)
 
 <h2> 🤳 Connect with me:</h2>
 
